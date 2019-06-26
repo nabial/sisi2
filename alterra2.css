@@ -1,0 +1,146 @@
+.section-1{
+	box-shadow: -webkit-box-shadow: 2px 2px 5px 6px rgba(222,222,222,1);
+	-moz-box-shadow: 2px 2px 5px 6px rgba(222,222,222,1);
+	box-shadow: 2px 2px 5px 6px rgba(222,222,222,1);
+
+}
+
+.logo{
+	text-align: center;
+}
+
+.menu{
+	line-height: 60px;
+	text-align: left;
+	font-family: muli;
+	font-weight: bold;
+}
+
+.space{
+	word-spacing: 30px;
+}
+
+.hr{
+	color: black;
+}
+
+.gallery{
+	padding-left: 3%;
+	padding-right: 3%;
+}
+
+.gambar img{
+	width: 100%;
+}
+
+.gambar2 img{
+	width: 100%;
+}
+
+.gambar{
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-top: 2%;
+}
+
+.gambar2{
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-top: 2%;
+	padding-bottom: 15%;
+}
+
+.section-5{
+	background-color: #19345E;
+	padding: 28px;
+}
+
+
+.footer-logo{
+	text-align: center;
+}
+
+.footer-follow{
+	text-align: center;
+	padding-left: 45px;
+}
+
+.gambar img{
+	padding-bottom: 5%;
+}
+
+.gambar2 img{
+	padding-bottom: 5%;
+}
+
+@media (max-width: 1199px) {
+
+}
+
+@media (max-width: 991px) {
+
+	.gambar img{
+	padding-bottom: 5%;
+	}
+
+	.gambar2 img{
+		padding-top: 1%;
+	}
+
+	.gambar img{
+		padding-top: 3%;
+	}
+
+	.menu{
+		text-align: center;
+	}
+
+}
+
+@media (max-width: 767px) {
+	.alp-subsc--right {
+		background-image: none;
+
+
+	}
+	.fullwidth-content.alp-follow-wrap {
+		max-width: 540px;
+	}
+
+	.gambar img{
+		padding-bottom: 5%;
+	}
+
+	.gambar2 img{
+		padding-top: 2%;
+	}
+
+	.gambar img{
+		padding-top: 3%;
+	}
+
+	.menu{
+		text-align: center;
+	}
+
+}
+
+@media (max-width: 575px) {
+
+	.gambar img{
+		padding-bottom: 5%;
+	}
+
+	.gambar2 img{
+		padding-top: 2%;
+	}
+
+	.gambar img{
+		padding-top: 3%;
+	}
+
+	.menu{
+		text-align: center;
+	}
+}
+
